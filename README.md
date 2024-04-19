@@ -1,5 +1,5 @@
 # PhotonSplash
-# Image Search Application
+### Image Search Application
 
 ## Description
 
@@ -28,6 +28,6 @@ This project is a simple image search application built with HTML, CSS, and Java
 To get started with this project, you can clone the repository and open the `index.html` file in your web browser. Make sure to replace the `accessKey` variable in the JavaScript code with your own Unsplash API access key.
 
 ```bash
-git clone https://github.com/kingpranav21/your-repository.git
+git clone https://github.com/kingpranav21/PhotonSplash
 cd your-repository
 
